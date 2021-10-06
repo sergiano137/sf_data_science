@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -29,7 +29,18 @@
 Учимся писать хороший код на python
 
 ### Краткая информация о данных
-...
+...  
+:arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/tree/main/project_0#Оглавление)
 
-:arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/blob/main/README.md#Оглавление)
+### Этапы работы над проектом
+...  
+:arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/tree/main/project_0#Оглавление)
+
+### Результаты
+...  
+:arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/tree/main/project_0#Оглавление)
+
+### Выводы
+...  
+:arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/tree/main/project_0#Оглавление)
 

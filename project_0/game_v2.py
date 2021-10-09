@@ -25,7 +25,7 @@ def random_predict(number:int=1) -> int:
                 upper_border = predict_number            
             predict_number = (low_border + upper_border)//2
         else: break          
-    return (count)
+    return count
 
 def score_game(random_predict) ->int:
     """Функция измерения средненго кол-во попыток угадывания за 1000 попыток
@@ -39,7 +39,7 @@ def score_game(random_predict) ->int:
     
     count_ls = [] #список для хренения количества попыток
     np.random.seed(1) # функция постоянного рандомного числа
-    random_array = np.random.randint(1, 101, size=(1000)) #задали список чисел
+    random_array = np.random.randint(1, 101, size=(3)) #задали список чисел
     
     for number in random_array:
         count_ls.append(random_predict(number))
@@ -51,4 +51,4 @@ if __name__== "__main__":
 #run
     score_game(random_predict)
 
-print(f"Количество попыток: {random_predict(10)}")   
+#print(f"Количество попыток: {random_predict(10)}")   

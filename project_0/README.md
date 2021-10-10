@@ -36,8 +36,8 @@
 - predict_number - предполагаемое число
 - low_border - нижняя граница предполагаемого числа
 - upper_border - верхняя граница предполагаемого числа
-- count_ls = [] #список для хренения количества попыток
-- random_array -список чисел
+- count_ls - список для храненения количества попыток
+- random_array -список рандомных загаданных чисел
 
 :arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/tree/main/project_0#Оглавление)
 

@@ -34,21 +34,19 @@ def score_game(random_predict) ->int:
         random_predict ([type]): функция угадывания
 
     Returns:
-        int: Среднее кол-во попыток
+        int: cреднее кол-во попыток
     """
     
     count_ls = [] #список для хренения количества попыток
     np.random.seed(1) # функция постоянного рандомного числа
-    random_array = np.random.randint(1, 101, size=(3)) #задали список чисел
+    random_array = np.random.randint(1, 101, size=(100)) #задали список чисел
     
     for number in random_array:
         count_ls.append(random_predict(number))
     score = int(np.mean(count_ls))
-    print(f"Ваш алгоритм угадывает число в среднем за: {score} попыток")
+    print(f"Алгоритм угадывает число в среднем за: {score} попыток")
     return score
 
 if __name__== "__main__":
 #run
     score_game(random_predict)
-
-#print(f"Количество попыток: {random_predict(10)}")   

@@ -39,7 +39,7 @@ def score_game(random_predict) ->int:
     
     count_ls = [] #список для хренения количества попыток
     np.random.seed(1) # функция постоянного рандомного числа
-    random_array = np.random.randint(1, 101, size=(3)) #задали список чисел
+    random_array = np.random.randint(1, 101, size=(1000) #задали список чисел
     
     for number in random_array:
         count_ls.append(random_predict(number))

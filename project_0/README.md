@@ -33,7 +33,7 @@
 :arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/tree/main/project_0#Оглавление)
 
 ### Этапы работы над проектом
-...  
+Написаны две функции. Функция аа вычисляет загаданное число. Функция формирует список угаданных чисел
 :arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/tree/main/project_0#Оглавление)
 
 ### Результаты
@@ -41,6 +41,6 @@
 :arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/tree/main/project_0#Оглавление)
 
 ### Выводы
-...  
+Алгоритм вычисляет за 7 попыток  
 :arrow_up:[к оглавлению](https://github.com/sergiano137/sf_data_science/tree/main/project_0#Оглавление)
 

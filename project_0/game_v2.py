@@ -14,7 +14,7 @@ def random_predict(number:int=1) -> int:
     """
     count = 0
     low_border = 0 #нижняя граница предполагаемого числа
-    upper_border = 100 #верхняя граница предполагаемого числа
+    upper_border = 101 #верхняя граница предполагаемого числа
     predict_number = np.random.randint(1,101) #предполагаемое число
     while number != predict_number:
         count += 1

@@ -20,10 +20,10 @@ def random_predict(number:int=1) -> int:
         count += 1
         if number > predict_number:
             low_border = predict_number 
-            predict_number = round(low_border + upper_border)//2                
+            predict_number = round((low_border + upper_border)//2)                
         elif number < predict_number: 
             upper_border = predict_number            
-            predict_number = round(low_border + upper_border)//2
+            predict_number = round((low_border + upper_border)//2)
         else: break          
     return (count)
 

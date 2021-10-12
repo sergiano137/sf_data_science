@@ -3,16 +3,16 @@
 import numpy as np
 from numpy import random
 
-def random_predict(number:int=1) -> int:
+def random_predict(number:int = 1) -> int:
     """Угадываем число
 
     Args:
-        number (int, optional): Загадываем число
+        number (int, optional): загадываем число
 
     Returns:
-        int: Число попыток
+        int: число попыток
     """
-    count = 0
+    count = 0 #счетчик попыток
     low_border = 0 #нижняя граница предполагаемого числа
     upper_border = 101 #верхняя граница предполагаемого числа
     predict_number = np.random.randint(1,101) #предполагаемое число
@@ -37,7 +37,7 @@ def score_game(random_predict) ->int:
         int: cреднее кол-во попыток
     """
     
-    count_ls = [] #список для хренения количества попыток
+    count_ls = [] #список для хранения количества попыток
     np.random.seed(1) # функция постоянного рандомного числа
     random_array = np.random.randint(1, 101, size = (1000)) #задали список чисел
     for number in random_array:
@@ -47,5 +47,5 @@ def score_game(random_predict) ->int:
     return (score)
 
 if __name__== "__main__":
-#run
+#запуск алгоритма
     score_game(random_predict)

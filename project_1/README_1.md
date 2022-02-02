@@ -2,17 +2,16 @@
 # Проект 1. Анализ вакансий на hh.ru
 
 ## Оглавление
-[1. Описание проекта](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)  
-[3. Исследование структуры данных](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.
-md#Исследование структуры данных)  
-[4. Преобразование данных](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.
+[1. Описание проекта](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README_1.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README_1.md#Какой-кейс-решаем)  
+[3. Исследование структуры данных](https://github.com/sergiano137/sf_data_science/tree/main/project_1/project_1/README_1.md#Исследование структуры данных)  
+[4. Преобразование данных](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README_1.
 md#Преобразование данных) 
-[5. Исследование зависимостей в данных](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.
+[5. Исследование зависимостей в данных](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README_1.
 md#Исследование зависимостей в данных) 
-[6. Этапы работы над проектом](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
-[7. Результат](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.md#Результат)  
-[8. Выводы](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.md#Выводы)
+[6. Этапы работы над проектом](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README_1.md#Этапы-работы-над-проектом)  
+[7. Результат](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README_1.md#Результат)  
+[8. Выводы](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README_1.md#Выводы)
 
 ### Описание проекта
 Данные с резюме соискателей необходимо преобразовать, исследовать и очистить.

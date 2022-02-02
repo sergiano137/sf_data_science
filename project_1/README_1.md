@@ -7,9 +7,9 @@
 [3. Исследование структуры данных](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.
 md#Исследование структуры данных)  
 [4. Преобразование данных](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.
-md#Преобразование-данных) 
+md#Преобразование данных) 
 [5. Исследование зависимостей в данных](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.
-md#Исследование-зависимостей-в-данных) 
+md#Исследование зависимостей в данных) 
 [6. Этапы работы над проектом](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
 [7. Результат](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.md#Результат)  
 [8. Выводы](https://github.com/sergiano137/sf_data_science/tree/main/project_1/README.md#Выводы)
